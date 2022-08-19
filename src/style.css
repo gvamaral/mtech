@@ -21,3 +21,12 @@ p{
 h1{
     color: red;
 }
+h6{
+    color:white;
+    font-size:xx-small;
+}
+footer{
+    position:absolute;
+    bottom:0;
+    height: 2.5rem;
+}
